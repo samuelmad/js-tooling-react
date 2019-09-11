@@ -1,1 +1,2 @@
-console.log('Hola Mundo');
+import greet from './greet'
+console.log(greet);
