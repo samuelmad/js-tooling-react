@@ -1,0 +1,20 @@
+{
+  "name": "js-tooling-react",
+  "version": "1.0.0",
+  "description": "Modern JavaScript Tooling with React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuelmad/js-tooling-react.git"
+  },
+  "keywords": [],
+  "author": "Samuel Gómez Martín",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samuelmad/js-tooling-react/issues"
+  },
+  "homepage": "https://github.com/samuelmad/js-tooling-react#readme"
+}
