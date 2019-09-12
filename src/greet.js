@@ -1,2 +1,2 @@
-const greeting = 'Hola Mundo Externo'
+const greeting = name =>`Hola ${name}`
 export default greeting
