@@ -1,2 +1,2 @@
-import greet from './greet'
-console.log(greet);
+import greeting from './greet'
+console.log(greeting('Samuel'));
